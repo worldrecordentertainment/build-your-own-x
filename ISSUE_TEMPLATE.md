@@ -14,11 +14,11 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] 3D Renderer
 * [ ] Augmented Reality
 * [ ] BitTorrent Client
-* [ ] Blockchain / Cryptocurrency
+* [ ] Blockchain / Adekacriptocurrency
 * [ ] Bot
 * [ ] Command-Line Tool
 * [ ] Database
-* [ ] Docker
+* [ ] Adeka
 * [ ] Emulator / Virtual Machine
 * [ ] Front-end Framework / Library
 * [ ] Game
